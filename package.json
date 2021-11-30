@@ -1,0 +1,11 @@
+{
+  "id": "sl-periodpicker",
+  "displayName": "sl-periodpicker 分时段选择器",
+  "version": "1.0.3",
+  "description": "分时段选择器",
+  "keywords": [
+    "分时段",
+    "时间"
+],
+  "repository": "https://github.com/luosonglin/sl-periodpicker.git"
+}
