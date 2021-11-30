@@ -88,5 +88,5 @@ range</td>
 </tbody>
 </table>
 
-![](https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/6aabb900-d18c-11eb-9e15-d7bea4ff4d12_0.png){:height="100px" width="400px"}
-![](https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/6aabb900-d18c-11eb-9e15-d7bea4ff4d12_1.png){:height="100px" width="400px"}
+<img src="https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/6aabb900-d18c-11eb-9e15-d7bea4ff4d12_0.png" style="zoom:50%" />
+<img src="https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/6aabb900-d18c-11eb-9e15-d7bea4ff4d12_1.png" style="zoom:50%" />
