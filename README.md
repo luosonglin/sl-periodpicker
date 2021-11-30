@@ -3,8 +3,6 @@
 ## sl-periodpicker 分时段选择器
 > **组件名：sl-periodpicker**
 > 
-> 开发者： `松林`
-> 
 > **注意事项**
 > 
 > - `schedule`对象传入的时间段属性使用的是24小时制格式化日期yyyy-MM-dd HH:mm:ss，如： 2021-11-30 08:00:00
@@ -89,3 +87,6 @@ range</td>
 
 </tbody>
 </table>
+
+![](https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/6aabb900-d18c-11eb-9e15-d7bea4ff4d12_0.png)
+![](https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/6aabb900-d18c-11eb-9e15-d7bea4ff4d12_1.png)
