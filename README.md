@@ -8,6 +8,9 @@
 > - `schedule`对象传入的时间段属性使用的是24小时制格式化日期yyyy-MM-dd HH:mm:ss，如： 2021-11-30 08:00:00
 
 
+<img src="https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/6aabb900-d18c-11eb-9e15-d7bea4ff4d12_0.png" style="zoom:20%" width="240" height="400"/>
+<img src="https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/6aabb900-d18c-11eb-9e15-d7bea4ff4d12_1.png" style="zoom:20%" width="240" height="400"/>
+
 ### 安装方式
 
 本组件符合[easycom](https://uniapp.dcloud.io/collocation/pages?id=easycom)规范，`HBuilderX 2.5.5`起，只需将本组件导入项目，在页面`template`中即可直接使用，无需在页面中`import`和注册`components`。
@@ -88,5 +91,3 @@ range</td>
 </tbody>
 </table>
 
-<img src="https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/6aabb900-d18c-11eb-9e15-d7bea4ff4d12_0.png" style="zoom:20%" width="480" height="800"/>
-<img src="https://img-cdn-aliyun.dcloud.net.cn/stream/plugin_screens/6aabb900-d18c-11eb-9e15-d7bea4ff4d12_1.png" style="zoom:20%" width="480" height="800"/>
